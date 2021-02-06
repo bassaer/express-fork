@@ -1,7 +1,7 @@
 # express-fork
 
 ```
-yarn start
+❯ yarn start
 yarn run v1.19.1
 $ tsc
 ✨  Done in 2.88s.
